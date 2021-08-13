@@ -1,0 +1,19 @@
+columnSuffix: axcenoyu
+contentColumnType: text
+fieldGroup: 67a6b43f-959b-4b0e-b6ad-5068f21c07bb # Global Fields
+handle: siteDescription
+instructions: ''
+name: 'Site Description'
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: ''
+  columnType: null
+  initialRows: '4'
+  multiline: ''
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

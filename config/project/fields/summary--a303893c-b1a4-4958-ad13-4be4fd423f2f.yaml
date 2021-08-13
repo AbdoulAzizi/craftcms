@@ -1,0 +1,19 @@
+columnSuffix: sxcthtba
+contentColumnType: text
+fieldGroup: 14285a31-6834-437a-ac78-707800628d44 # Blog Post Fields
+handle: summary
+instructions: Summary
+name: Summary
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: ''
+  columnType: null
+  initialRows: '1'
+  multiline: '1'
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

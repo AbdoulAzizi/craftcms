@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: fr
+name: craftsite
+primary: true
+siteGroup: 8b40706c-daae-483c-b0df-0008154ff08c # craftsite
+sortOrder: 1

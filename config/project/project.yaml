@@ -1,0 +1,48 @@
+dateModified: 1628782819
+email:
+  fromEmail: yaronfada@gmail.com
+  fromName: craftsite
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    1bf818b0-e17f-4ff8-94a0-1c18815e9aa6: 'Post Content' # Post Content
+    1dfb568d-99f5-41df-b7c8-64a7ba9673f9: 'Blog Categories' # Blog Categories
+    6a3dad13-8ecb-4379-960d-d25c3aa6f1cf: 'Post Content' # Post Content
+    6cbd3570-2716-4d59-814d-2daefbe0ee52: Text # Text
+    7fc31f06-7701-4e8f-a06d-102afb6d1b7c: About # About
+    8b40706c-daae-483c-b0df-0008154ff08c: craftsite # craftsite
+    8e5e2447-2f96-432b-8537-e8d3219afbd7: General # General
+    26baa16e-57e5-4954-8858-e2e6f9587a78: 'Par défaut' # Par défaut
+    31bd1df3-d787-47af-9f61-093ee83b3e1b: 'Post Categories' # Post Categories
+    67a6b43f-959b-4b0e-b6ad-5068f21c07bb: 'Global Fields' # Global Fields
+    501eacf5-6ee1-4fed-8e56-7d13eee7fc6c: 'Singles Fields' # Singles Fields
+    861d2157-9eb6-4a65-a77b-5fd286fea634: 'Site Information' # Site Information
+    14285a31-6834-437a-ac78-707800628d44: 'Blog Post Fields' # Blog Post Fields
+    39627cfa-2481-4366-bc95-0e6f5de22960: Blog # Blog
+    86946a2a-b6d7-4088-b2cb-0a2e3699f585: About # About
+    518911df-c9b4-4465-8ed4-0206af96c723: 'About Image' # About Image
+    2432314d-6406-4456-ac02-77de6bf49a69: Blog # Blog
+    a303893c-b1a4-4958-ad13-4be4fd423f2f: Summary # Summary
+    af442a1c-9191-4675-8e1f-4fa74db8fc61: Image # Image
+    b16e7ee4-2aed-496b-adca-45b386c5eee4: 'Feature Image' # Feature Image
+    bae8473e-629e-4ca5-99f4-c72d12032989: Common # Common
+    c2688eac-49fc-4462-882e-6d362c6d6031: 'Site Description' # Site Description
+    d02fb476-fe13-4a5d-b8c7-ef3d23e942c6: craftsite # craftsite
+    dcd202f1-81b5-408e-885e-9d70fab7c49d: Text # Text
+plugins:
+  redactor:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.3.0
+system:
+  edition: solo
+  live: true
+  name: craftsite
+  schemaVersion: 3.7.7
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

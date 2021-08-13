@@ -1,0 +1,40 @@
+fieldLayouts:
+  87d717e2-a361-4865-b205-206feb78b7ce:
+    tabs:
+      -
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\AssetTitleField
+            warning: null
+            width: 100
+        name: Contenu
+        sortOrder: 1
+handle: general
+hasUrls: true
+name: General
+settings:
+  path: '@webroot/assets/general'
+sortOrder: 2
+titleTranslationKeyFormat: null
+titleTranslationMethod: null
+type: craft\volumes\Local
+url: '@web/assets/general'
